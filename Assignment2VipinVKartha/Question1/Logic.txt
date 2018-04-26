@@ -1,0 +1,7 @@
+Assignment submitted by Vipin V Kartha
+
+Both the functions are rewritten with ES6 semantics . 
+1. All var variables are replaced by let
+2. Arrow functions are used
+3. For Of loop is used for arrays
+4. Swapping logic is changed. Now the entire swap happens in one statement.

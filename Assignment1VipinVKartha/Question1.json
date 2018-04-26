@@ -1,0 +1,86 @@
+{
+	"headoffice": "Delhi",
+	"customer_care number": "000000",
+	"customer_care mail": "xyz@shopping.com",
+	"users": [{
+        "id" : "id1",
+        "name" : "user1",
+        "address" : "address1",
+		"mode of payment" : "credit card",
+		"order history"   : "order1"
+
+    },
+    {
+        "id" : "id2",
+        "name" : "user2",
+        "address" : "address2",
+		"mode of payment" : "net banking",
+		"order history"   : "order2"
+
+	}],
+	"sellers": [{
+        "id" : "id1",
+        "name" : "seller1",
+		"product" : "product1",
+		"seller rating" : "3",
+		"shipping charges" : "nil" 
+
+    },
+	{
+        "id" : "id2",
+        "name" : "seller2",
+		"product" : "product2",
+		"seller rating" : "4",
+		"shipping charges" : "200" 
+
+    }],
+    "catalogue" : [{
+        "category" : "category1",
+        "product name" : "item1",
+        "price" : "500"
+
+    },{
+        "category" : "category2",
+        "product name" : "item2",
+        "price" : "1400"
+        
+    },
+    {
+        "category" : "category3",
+        "product name" : "item3",
+        "price" : "700"
+        
+    }],
+    "Deals" : [{
+        "product name" : "item1",
+		"Discount price" : "500",
+		"Coupon Code"    : "Code1"
+
+    },{
+        "product name" : "item2",
+		"Discount price" : "200",
+		"Coupon Code"    : "Code2"
+
+	}],
+	"feedback" :[
+		{
+			"username" : "user1",
+			"product"  : "item1",
+			"review"   : " Good",
+			"rating"   : "5"
+		},
+		{
+			"username" : "user2",
+			"product"  : "item2",
+			"review"   : "Average ",
+			"rating"   : "3"
+		},
+		{
+			"username" : "user3",
+			"product"  : "item3",
+			"review"   : "Below Average ",
+			"rating"   : "4"
+		}
+	]
+
+}

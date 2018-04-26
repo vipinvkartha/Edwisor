@@ -1,0 +1,8 @@
+Assignment submitted by Vipin V Kartha
+The logic followed for the javascript code is given below:
+
+1. To find the details of the pokemon from the given name , a linear search method is used. The entire array is searched using a 'for in' loop to find the given name. A boolean flag is used which is set to true when the name is found in the array.
+
+2. To find the name of the pokemon, which has the next evolution as the input pokemon name. I used two 'for in' loops. One loop is to search inside the pokemon array and the inner loop is used to search inside the next_evolution array.A boolean flag is used which is set to true when the name is found in the array.
+
+3. To find the list of pokemon with given weakness , 2 'for in' loops have been used.One loop is to search inside the pokemon array and the inner loop is used to search inside the weakness array.A boolean flag is used which is set to true when the weakness is found in the array.

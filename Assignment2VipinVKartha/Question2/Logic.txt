@@ -1,0 +1,20 @@
+Assignment submitted by Vipin V Kartha
+The logic followed for the javascript code is given below:
+
+1. To find the details of the episode from the given season number and episode number , a linear search method is used.
+   The episodes array is searched using a 'for of' loop to find the given season and episode number.
+   A boolean flag is used which is set to true when the season and episode number is found in the array.
+   Once it is found , break statement is used to come out of the array. Prompt is used to
+   read input from user. ES6 semantics are used wherever possible.
+
+
+2. REST parameters are used to take multiple episode IDs as input to the function. For of loop is used to loop
+   through the episode ID  array. For each episode ID ,again a for of loop is used on the episodes array to 
+   do a linear search. If the episode id is found , break is used to exit from the inner loop. A boolean value
+   is set to true for each episode id , when it is found in the episodes array.ES6 semantics are used wherever possible.
+
+3. To find the details of the episode from the given episode name , a linear search method is used.
+   The episodes array is searched using a 'for of' loop to find the given episode name.
+   A boolean flag is used which is set to true when the episode name is found in the array.
+   Once it is found , break statement is used to come out of the array. Prompt is used to
+   read input from user.ES6 semantics are used wherever possible.
